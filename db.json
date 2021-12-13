@@ -20,6 +20,20 @@
       "attention": false,
       "date": "03-02-2019",
       "tech": "Sara Wilson"
+    },
+    {
+      "message": "URGENT: machine 001 is down",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-12-13T17:09:51.165Z",
+      "id": 4
+    },
+    {
+      "message": "log message",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-12-13T17:10:31.107Z",
+      "id": 5
     }
   ],
   "techs": [
